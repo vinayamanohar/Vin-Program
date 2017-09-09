@@ -6,7 +6,7 @@ public class test {
 	
 	public static void main(String[] args)
 	{
-	
+	//Sorting a stack while pushing elements from int array to stack.
 		Stack stk = new Stack();
 		Stack stk1 = new Stack();
 		int[] in = {1, 1, 3};
